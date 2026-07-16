@@ -68,6 +68,7 @@ body {
 .msg.user {
   color: #222;
   font-weight: 400;
+  text-align: right;
 }
 
 .msg.ai {
